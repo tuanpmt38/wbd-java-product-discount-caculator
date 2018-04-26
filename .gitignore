@@ -1,0 +1,6 @@
+//File
+*.iml
+
+#foder
+out/
+.idea/
